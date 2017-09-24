@@ -13,3 +13,6 @@ In project root with a device connected, or the emulator running run the followi
 	ndk-build
 	ant debug
 	ant installd
+
+
+https://software.intel.com/en-us/articles/android-texture-compression-a-comparison-study-with-code-sample
